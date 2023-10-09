@@ -1,4 +1,4 @@
-# MedicalInsuranceCostsUsingLR
+# Medical Insurance Costs Using LR
 Predicting Medical Insurance Costs: A Linear Regression Analysis
 
 
